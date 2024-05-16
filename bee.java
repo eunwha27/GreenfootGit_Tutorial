@@ -12,6 +12,7 @@ public class bee extends Actor
      * Act - do whatever the bee wants to do. This method is called whenever
      * the 'Act' or 'Run' button gets pressed in the environment.
      */
+    // p68te    
     public void act()
     {
         move(5);
